@@ -92,4 +92,19 @@ nav ul {
 	border-radius: 10px;
 }
 
+#container {
+	position: relative;
+    margin-left: 180px;
+    margin-right: auto;
+	
+    width: auto;
+	
+	max-width: 80%;
+	min-width: 45%;
+	
+    height: auto;
+
+    border-radius: 10px;
+}
+
 
