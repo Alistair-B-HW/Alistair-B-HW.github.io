@@ -49,4 +49,30 @@ ul.posts li {
 list-style: none;
 } 
  
+nav
+{
+	background-color: #7900B1;
+	text-align: center; /* or change the value to left to align left*/
+    font-family: sans-serif;
+}
+
+nav a {
+	background-color: #7900B1;   
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+nav a:hover {
+	background: #7900ff;
+}
+
+nav ul {
+	display: block;
+	list-style: none;
+	margin: 10px;
+	padding: 0;
+}
+
 
